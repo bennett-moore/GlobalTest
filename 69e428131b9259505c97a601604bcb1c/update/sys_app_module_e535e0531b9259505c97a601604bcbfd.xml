@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="testGlobal">513560531b9259505c97a601604bcb3c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>All</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>u_testtable</name>
+        <order>3</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-07 17:18:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e535e0531b9259505c97a601604bcbfd</sys_id>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="testGlobal" source="69e428131b9259505c97a601604bcb1c">69e428131b9259505c97a601604bcb1c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testGlobal">69e428131b9259505c97a601604bcb1c</sys_scope>
+        <sys_update_name>sys_app_module_e535e0531b9259505c97a601604bcbfd</sys_update_name>
+        <timeline_page/>
+        <title>All</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
